@@ -1,4 +1,4 @@
-# adult-census-income
+# Adult-census-income
 classification on  [adult-census-income dataset](https://www.kaggle.com/uciml/adult-census-income) with some minor changes.<br>
 Models have been made via differnet classifiers like RandomForest,SVC,Decision Tree, LogisticRegression, naive bayes(Bernoulli and gaussian)
 and some others.<br>
